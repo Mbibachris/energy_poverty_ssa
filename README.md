@@ -1,7 +1,7 @@
 # Drivers of Energy Poverty in Sub-Saharan Africa: An Algorithmic Approach
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-![Status: Work in Progress](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow)
+![Status: Work in Progress(Analysis complete, interpretation and proofreading ongoing)](https://img.shields.io/badge/Status-Work%20in%20Progress-yellow)
 ![Language: Python](https://img.shields.io/badge/Language-Python-green)
 
 ---
