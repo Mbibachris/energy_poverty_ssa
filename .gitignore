@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Stata
+*.log
+
+# Word / Office temp files
+~$*.docx
+~$*.xlsx
+
+# Editors
+.vscode/
+.idea/

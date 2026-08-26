@@ -1,1 +1,1 @@
-Algorithmic driver identification notebook goes here
+Algorithmic driver identification (Recursive Feature Elimination and the nine machine learning models) is implemented together with model interpretation in `../04_results/Modelling.ipynb`, rather than as a separate notebook. This folder is kept for structural clarity.
