@@ -17,7 +17,7 @@ This repository contains the replication code, data, and manuscript draft for:
 > Christopher Mbiba — University of Cape Coast, Ghana
 > *Working paper, 2026 (unpublished)*
 
-> **Note:** The project began as a Sub-Saharan Africa study (hence the repository name, `energy_poverty_ssa`) and has since been extended to cover **all 54 African countries**. The manuscript and code below reflect the expanded, continent-wide scope.
+> **Note:** The project began as a Sub-Saharan Africa study and has since been extended to cover **all 54 African countries**. The manuscript and code below reflect the expanded, continent-wide scope.
 
 The pipeline proceeds in three stages: (1) construction of a **Multidimensional Energy Poverty Index (MEPI)** using the Alkire–Foster (2011) dual-cutoff methodology; (2) **Recursive Feature Elimination and nine machine learning models**, interpreted with feature importance, SHAP values, Partial Dependence Plots and Individual Conditional Expectation curves; and (3) validation with **panel fixed-effects/random-effects estimation** and a Hausman test.
 
@@ -26,7 +26,7 @@ The pipeline proceeds in three stages: (1) construction of a **Multidimensional 
 ## Repository Structure
 
 ```
-energy_poverty_ssa/
+energy_poverty_africa/
 │
 ├── paper/
 │   └── Drivers_of_Energy_Poverty_in_Africa.docx   ← Full manuscript (working draft)
