@@ -21,3 +21,8 @@ venv/
 # Editors
 .vscode/
 .idea/
+
+# Not published: manuscript draft and analysis outputs/results are kept
+# local-only until the paper is published, to avoid pre-publication disclosure
+/paper/
+/outputs/
